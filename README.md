@@ -1,0 +1,1 @@
+Open `brave://extensions` or `chrome://extensions`, enable Developer mode, select Load unpacked, and choose your new repository folder. Pin Frame and click it. Your heading should appear with no extension errors.

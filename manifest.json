@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Frame - Screen Recorder",
+    "version": "1.0.0",
+    "description": "A screen recorder Project",
+    "minimum_chrome_version": "116",
+    "background": {"service_worker": "background.js"},
+    "action": { "default_title": "Open Frame" }
+}
